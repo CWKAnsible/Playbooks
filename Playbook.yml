@@ -26,7 +26,7 @@
         name: window_share
         description: this is a custom share 
         path: c:\custom_share
-        full: adminstrator
+        full: administrator
         state: present
     - name: copying some custom content
       win_copy:
